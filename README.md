@@ -1,10 +1,9 @@
-# Project 3D - Portfolio
+# Portfolio_3D_Tanishq
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/78680563/227708528-0e803ddf-506e-4d8b-98bc-dd7bf0f1b518.png" alt="Om's Logo Image"/>
-</p>
+![image](https://github.com/user-attachments/assets/ba7d9f4b-a08b-4dd7-961b-1cdc0a05b5cb)
 
-This was my first project using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/0fYi8SGA20k?feature=shared).
+
+This project is made using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/0fYi8SGA20k?feature=shared).
 
 Work done on it other than the tutorial:-
 - Removed unused CSS.
@@ -12,6 +11,7 @@ Work done on it other than the tutorial:-
 - Made UI Faster.
 - Added a Resume Button (Where you can put a link to your resume).
 - Enhanced Visibility and solved Responsive UI Problems.
+- Added Education Section
 
 This Project is hosted in Netlify : [3D Portfolio](https://portfoliobyompatel.netlify.app/)
 
@@ -64,27 +64,22 @@ The website should now be up and running on http://localhost:3000.
 
 ## 🚀 About Me
 Specializations:
-- UI/UX Design.
+- AIML Developer
 - Web Development
 
 ## 🙋‍♂️ Connect With Me
 
-[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/omunite215)&nbsp;
-[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/om-patel-401068143/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/_21omp/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=devto" />](https://portfoliobyom.netlify.app/)
+[<img src="https://skillicons.dev/icons?i=github" />]((https://github.com/TanishqThuse))&nbsp;
+[<img src="https://skillicons.dev/icons?i=linkedin" />]((https://www.linkedin.com/in/tanishq-thuse-32472b248/))&nbsp;
 
 ## 🗒️ Authors
-- Om Patel
+- Tanishq Thuse
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <a href="https://github.com/omunite215">
+    <a href="(https://github.com/TanishqThuse)">
       <img src="https://skillicons.dev/icons?i=github" />
     </a>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/omunite215/Project_3DPortfolio/assets/78680563/2fcf609b-e802-4fec-8c82-8f55fd043437" alt="Om's Logo Image"/>
-</p>
