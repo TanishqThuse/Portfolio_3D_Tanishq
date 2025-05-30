@@ -52,14 +52,14 @@ const About = () => {
 				variants={fadeIn("", "", 0.1, 1)}
 				className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
 			>
-				I'm a full-stack developer with a strong focus on backend engineering.
+				I&apos;m a full-stack developer with a strong focus on backend engineering.
 				I enjoy building scalable, high-performance systems using technologies
-				like Node.js, Express, MongoDB, and Firebase. I’m also passionate about
+				like Node.js, Express, MongoDB, and Firebase. I&apos;m also passionate about
 				Artificial Intelligence and Machine Learning, and actively explore
 				problems in predictive modeling and data-driven solutions.
 				<br />
 				<br />
-				Beyond web, I’m excited by mobile app development and love creating
+				Beyond web, I&apos;m excited by mobile app development and love creating
 				user-friendly applications using modern frameworks. I thrive on
 				problem-solving, clean architecture, and continuous learning — always
 				looking for new ways to push the boundaries of what I can build.
