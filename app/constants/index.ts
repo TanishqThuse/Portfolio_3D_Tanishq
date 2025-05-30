@@ -299,11 +299,76 @@ const projects = [
 	source_code_link: "https://github.com/TanishqThuse/MediReport-Voice", // Replace with your GitHub link
 	platform: "Web",
 	deploy_link: "https://github.com/TanishqThuse/MediReport-Voice", // Since it's a desktop app, use repo link as fallback
-	},	
+	},
 	{
-	name: "Diabetes Prediction using Machine Learning",
+	name: "Vehicle Management System (Java Swing)",
 	description:
-		"A data science project that predicts the likelihood of diabetes using Random Forest with hyperparameter tuning, feature engineering, and insightful visual EDA.",
+		"A Java Swing-based application developed using WindowBuilder. The system allows Dealers to manage vehicles, Customers to browse and request purchases, and an Admin to oversee all users and listings. Built using Object-Oriented Programming principles with GUI components like JPanels, JTables, and Applets.",
+	tags: [
+		{
+			name: "java",
+			color: "orange-text-gradient",
+		},
+		{
+			name: "swing",
+			color: "blue-text-gradient",
+		},
+		{
+			name: "object-oriented",
+			color: "green-text-gradient",
+		},
+		{
+			name: "windowbuilder",
+			color: "purple-text-gradient",
+		},
+		{
+			name: "gui",
+			color: "pink-text-gradient",
+		},
+	],
+	image: "/projectimg/vehicle_management_system.png", // Replace with actual image path
+	source_code_link: "https://github.com/TanishqThuse/vehicle-management-system-java",
+	platform: "Eclipse (Java Swing)",
+	deploy_link: "https://github.com/TanishqThuse/vehicle-management-system-java"
+},
+
+	// Uncomment and modify the following project if you want to include it	
+// 	{
+// 	name: "Diabetes Prediction using Machine Learning",
+// 	description:
+// 		"A data science project that predicts the likelihood of diabetes using Random Forest with hyperparameter tuning, feature engineering, and insightful visual EDA.",
+// 	tags: [
+// 		{
+// 			name: "machine-learning",
+// 			color: "green-text-gradient",
+// 		},
+// 		{
+// 			name: "random-forest",
+// 			color: "orange-text-gradient",
+// 		},
+// 		{
+// 			name: "eda",
+// 			color: "blue-text-gradient",
+// 		},
+// 		{
+// 			name: "feature-engineering",
+// 			color: "pink-text-gradient",
+// 		},
+// 		{
+// 			name: "jupyter-notebook",
+// 			color: "purple-text-gradient",
+// 		},
+// 	],
+// 	image: "/projectimg/diabetes-prediction.png", // Replace with actual image path
+// 	source_code_link: "https://github.com/TanishqThuse/Diabetes-Prediction-ML", // Replace with actual repo
+// 	platform: "Jupyter",
+// 	deploy_link: "https://github.com/TanishqThuse/Diabetes-Prediction-ML", // No live model? GitHub repo is good fallback
+// },
+	// other projects here...
+	{
+	name: "Crop Yield Prediction",
+	description:
+		"A machine learning project that classifies soil fertility based on nutrient composition (N, P, K, pH, EC, etc.) into three classes: Less Fertile, Fertile, and Highly Fertile. Achieved 94.95% accuracy using Random Forest Classifier.",
 	tags: [
 		{
 			name: "machine-learning",
@@ -314,11 +379,11 @@ const projects = [
 			color: "orange-text-gradient",
 		},
 		{
-			name: "eda",
+			name: "svm",
 			color: "blue-text-gradient",
 		},
 		{
-			name: "feature-engineering",
+			name: "knn",
 			color: "pink-text-gradient",
 		},
 		{
@@ -326,14 +391,11 @@ const projects = [
 			color: "purple-text-gradient",
 		},
 	],
-	image: "/projectimg/diabetes-prediction.png", // Replace with actual image path
-	source_code_link: "https://github.com/TanishqThuse/Diabetes-Prediction-ML", // Replace with actual repo
+	image: "/projectimg/crop_yield_prediction.png", // Replace with actual image path
+	source_code_link: "https://github.com/TanishqThuse/Crop_Yield_Prediction",
 	platform: "Jupyter",
-	deploy_link: "https://github.com/TanishqThuse/Diabetes-Prediction-ML", // No live model? GitHub repo is good fallback
+	deploy_link: "https://github.com/TanishqThuse/Crop_Yield_Prediction", // No live deployment, fallback to GitHub
 }
-
-
-	// other projects here...
 ];
 
 
