@@ -66,28 +66,12 @@ const technologies = [
 		icon: "/tech/redux.webp",
 	},
 	{
-		name: "Tailwind CSS",
-		icon: "/tech/tailwind.webp",
-	},
-	{
-		name: "Three JS",
-		icon: "/tech/threejs.webp",
-	},
-	{
 		name: "git",
 		icon: "/tech/git.webp",
 	},
 	{
 		name: "figma",
 		icon: "/tech/figma.webp",
-	},
-	{
-		name: "wordpress",
-		icon: "/tech/wordpress.webp",
-	},
-	{
-		name: "bootstrap",
-		icon: "/tech/bootstrap.webp",
 	},
 ];
 
