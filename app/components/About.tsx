@@ -50,6 +50,23 @@ const About = () => {
 			</motion.div>
 
 			<motion.p
+			variants={fadeIn("", "", 0.1, 1)}
+			className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
+		>
+			I&apos;m a full-stack developer with a strong focus on backend engineering.
+			I enjoy building scalable, high-performance systems using technologies
+			like Node.js, Express, MongoDB, and Firebase. I&apos;m also passionate about
+			Artificial Intelligence and Machine Learning, and actively explore
+			problems in predictive modeling and data-driven solutions.
+			<br />
+			<br />
+			I take pride in writing clean, maintainable code and designing systems with a clear architectural vision.
+			I thrive in collaborative environments, enjoy breaking down complex problems, and value continuous learning &mdash;
+			always looking for new ways to push the boundaries of what I can build.
+		</motion.p>
+
+
+			{/* <motion.p
 				variants={fadeIn("", "", 0.1, 1)}
 				className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
 			>
@@ -64,7 +81,7 @@ const About = () => {
 				user-friendly applications using modern frameworks. I thrive on
 				problem-solving, clean architecture, and continuous learning &mdash; always
 				looking for new ways to push the boundaries of what I can build.
-			</motion.p>
+			</motion.p> */}
 
 			<div className="mt-20 flex flex-wrap gap-10">
 				{services.map((service, index) => (
