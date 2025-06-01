@@ -69,17 +69,15 @@ Specializations:
 
 ## 🙋‍♂️ Connect With Me
 
-[<img src="https://skillicons.dev/icons?i=github" />]((https://github.com/TanishqThuse))&nbsp;
-[<img src="https://skillicons.dev/icons?i=linkedin" />]((https://www.linkedin.com/in/tanishq-thuse-32472b248/))&nbsp;
+[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/TanishqThuse)&nbsp;
+[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/tanishq-thuse-32472b248/)&nbsp;
 
 ## 🗒️ Authors
 - Tanishq Thuse
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <a href="(https://github.com/TanishqThuse)">
-      <img src="https://skillicons.dev/icons?i=github" />
-    </a>
+<a href="https://skillicons.dev">
+  <a href="(https://github.com/TanishqThuse)">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-</p>
+</a>
 
