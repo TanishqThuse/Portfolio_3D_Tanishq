@@ -13,7 +13,7 @@ Work done on it other than the tutorial:-
 - Enhanced Visibility and solved Responsive UI Problems.
 - Added Education Section
 
-This Project is hosted in Netlify : [3D Portfolio](https://portfoliobyompatel.netlify.app/)
+This Project is hosted in Vercel : [3D Portfolio](https://tanishq-thuse-portfolio.vercel.app/)
 
 ## :star: Give A Star
 
