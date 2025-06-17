@@ -13,7 +13,7 @@ Work done on it other than the tutorial:-
 - Enhanced Visibility and solved Responsive UI Problems.
 - Added Education Section
 
-This Project is hosted in Netlify : [3D Portfolio](https://portfoliobyompatel.netlify.app/)
+This Project is hosted in Vercel : [3D Portfolio](https://tanishq-thuse-portfolio.vercel.app/)
 
 ## :star: Give A Star
 
@@ -34,13 +34,13 @@ Before you start, make sure you have the following software installed on your co
 1. Clone the repository to your local machine
 
 ```bash
-  git clone https://github.com/omunite215/Project_3DPortfolio.git
+  git clone https://github.com/TanishqThuse/Portfolio_3D_Tanishq.git
 
 ```
 2. Navigate to the project directory
 
 ```bash
-  cd Project_3DPortfolio
+  cd Portfolio_3D_Tanishq
 ```
 3. Install the necessary dependencies
 ```bash
@@ -69,17 +69,15 @@ Specializations:
 
 ## 🙋‍♂️ Connect With Me
 
-[<img src="https://skillicons.dev/icons?i=github" />]((https://github.com/TanishqThuse))&nbsp;
-[<img src="https://skillicons.dev/icons?i=linkedin" />]((https://www.linkedin.com/in/tanishq-thuse-32472b248/))&nbsp;
+[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/TanishqThuse)&nbsp;
+[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/tanishq-thuse-32472b248/)&nbsp;
 
 ## 🗒️ Authors
 - Tanishq Thuse
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <a href="(https://github.com/TanishqThuse)">
-      <img src="https://skillicons.dev/icons?i=github" />
-    </a>
+<a href="https://skillicons.dev">
+  <a href="(https://github.com/TanishqThuse)">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-</p>
+</a>
 
