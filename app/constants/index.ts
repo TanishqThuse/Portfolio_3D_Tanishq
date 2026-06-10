@@ -84,7 +84,7 @@ export const education = [
     date: "2023 - 2027",
     points: [
       "Relevant coursework: Data Structures, Artificial Intelligence, Operating Systems",
-      "CGPA: 8.9/10",
+      "CGPA: 9.75/10",
 	  "Smart India Hackathon 2024 Finalist",
       "Open Source Co-Head at Team Quark",
 	  "AIML Developer at MLSC VIT Pune",
